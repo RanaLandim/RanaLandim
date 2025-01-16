@@ -6,7 +6,7 @@
 - 🌱 Atualmente estudando mais sobre *Python, **programação* e explorando *desenvolvimento de software*.
 
 ### 🔧 Tecnologias
-- *Linguagens:* Python, JavaScript, HTML/CSS, C++.
+- *Linguagens:* Python, JavaScript, HTML/CSS, C.
 - *Ferramentas:* Git, VS Code.
 - *Outros:* SQL, Excel Avançado.
 
