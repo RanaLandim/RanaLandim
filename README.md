@@ -3,7 +3,7 @@
 ### 💻 Sobre mim
 - 📍 Técnico em Eletrônica e desenvolvedor backend em formação.
 - 🎯 Focado em Python, desenvolvimento web e sempre aprendendo novas tecnologias.
-- 🌱 Atualmente estudando mais sobre *Python, **programação* e explorando *desenvolvimento de software*.
+- 🌱 Atualmente estudando mais sobre *Python,* *programação* e explorando *desenvolvimento de software*.
 
 ### 🔧 Tecnologias
 - *Linguagens:* Python, JavaScript, HTML/CSS, C.
