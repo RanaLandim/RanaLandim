@@ -1,20 +1,37 @@
 # Olá, eu me chamo Rana! 👋
 
-### 💻 Sobre mim
-- 📍 Técnico em Eletrônica e desenvolvedor backend em formação.
-- 🎯 Focado em Python, desenvolvimento web e sempre aprendendo novas tecnologias.
-- 🌱 Atualmente estudando mais sobre *Python,* *programação* e explorando *desenvolvimento de software*.
+## 💻 Sobre mim
 
-### 🔧 Tecnologias
-- *Linguagens:* Python, JavaScript, HTML/CSS, C.
-- *Ferramentas:* Git, VS Code.
-- *Outros:* SQL, Excel Avançado.
+Sou Técnica em Eletrônica e desenvolvedora backend em formação, apaixonada por tecnologia, dados e robótica.  
+Atualmente curso Análise e Desenvolvimento de Sistemas e Engenharia da Computação, com foco em Engenharia de Dados, Backend e Inteligência Artificial.
 
-### 🚀 Projetos em Destaque
-- *[Projeto de monitoramento de residuos com API](https://github.com/RanaLandim/python/tree/main/PROJETO%20MONITORAMENTO%20DE%20RESIDUOS%20-%20API%20DE%20TEMPERATURA))
-- *[Aplicativo de ginástica elaboral (em andamento)](https://github.com/RanaLandim/Desenvolvimento-Web/tree/aplicativo-ginastica-elaboral)
-- *[Jogo de pedra, papel e tesoura em C](https://github.com/RanaLandim/Jogo-de-pedra-papel-e-tesoura)
+🎯 Sempre buscando aprender novas tecnologias e construir soluções práticas e eficientes.
 
-### 📫 Contato
-- LinkedIn: [Rana-Landim](www.linkedin.com/in/rana-landim)
-- E-mail: [ranapug@gmail.com](ranapug@gmail.com)
+## 🧠 Principais Tecnologias
+
+- **Linguagens:** Python, JavaScript, C, HTML/CSS, SQL  
+- **Ferramentas:** Git, VS Code, GitHub  
+- **Outros conhecimentos:** APIs REST, Excel Avançado
+
+## 🚀 Projetos em Destaque
+
+- **[API de Monitoramento de Resíduos](#)** – API REST com Python e Flask para monitoramento ambiental *(em construção)*
+- **Aplicativo de Ginástica Laboral** – App mobile para práticas de saúde no trabalho *(em andamento)*
+- **[Jogo Pedra, Papel e Tesoura em C](#)** – Lógica em C e execução em terminal
+
+⚙️ *Outros projetos em breve serão publicados!*
+
+## 🔭 Atualmente envolvida em:
+
+- Núcleo de Tecnologia e Inovação da Unijorge  
+  - Projeto: Atendente Robótico (IA aplicada)  
+  - Projeto: Jogos em Sistemas Embarcados  
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/rana-landim)  
+- 📧 ranapug@gmail.com
+
+---
+
+🧩 **Em constante aprendizado. Let's build together!**
